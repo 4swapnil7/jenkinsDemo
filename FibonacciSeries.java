@@ -5,5 +5,4 @@ public class FibonacciSeries {
 		System.out.println("Hi SWAPNIL ");
 		
 		}
-	}
 }
